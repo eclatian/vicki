@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/eclatian/DFD-Tool.svg)](https://gitter.im/eclatian/DFD-Tool?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # DFD Tool
 ## Why?
 
@@ -30,4 +32,4 @@ Please join the [LinkedIn page](https://www.linkedin.com/groups/10543155/). Afte
 We will update on this.
 
 
-[![Gitter](https://badges.gitter.im/eclatian/DFD-Tool.svg)](https://gitter.im/eclatian/DFD-Tool?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
