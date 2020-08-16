@@ -1,4 +1,4 @@
-[![Gitter](https://badges.gitter.im/eclatian/DFD-Tool.svg)](https://gitter.im/eclatian/DFD-Tool?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/eclatian/vicki.svg)](https://gitter.im/eclatian/vicki?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # DFD Tool
 ## Why?
