@@ -1,13 +1,13 @@
 [![Gitter](https://badges.gitter.im/eclatian/vicki.svg)](https://gitter.im/eclatian/vicki?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-# DFD Tool
+# Vicki
 ## Why?
 
-Though as concept DFD makes sense and few of us may give it a try and see how it helps them, yet the whole DFD is just a theory. Even if its promising, its all the theory. To implement DFD it would need some thought process in the design part of it, which might be a reason why someone would not like start with DFD. DFD tool solves this problem. It helps to kick start the DFD implementation without you doing much of initial and boiler plate thinking. It gives you the most common scenarios as built in structure and helps you running with DFD. Further you can choose how you twist or utilize the DFD in your own way. 
+Though as concept DFD makes sense and few of us may give it a try and see how it helps them, yet the whole DFD is just a theory. Even if its promising, its all the theory. To implement DFD it would need some thought process in the design part of it, which might be a reason why someone would not like start with DFD. Vicki solves this problem. It helps to kick start the DFD implementation without you doing much of initial and boiler plate thinking. It gives you the most common scenarios as built in structure and helps you running with DFD. Further you can choose how you twist or utilize the DFD in your own way. 
 
 ## What?
 
-DFD tool gives a simple tool which you can deploy in your environment, which should be reachable from your build system. 
+Vicki gives a simple tool which you can deploy in your environment, which should be reachable from your build system. 
 1. Its gives a tool based on FOSS technology, which most of the enterprises would not have any problem to use.
 2. Its a single deployment component which dpends on a MySQL instance. This will make the deployment of the tool easy.
 3. It would have its own UI to interact with and few REST APIs to exchange data with.
