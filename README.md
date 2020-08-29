@@ -1,5 +1,6 @@
-[![Gitter](https://badges.gitter.im/eclatian/vicki.svg)](https://gitter.im/eclatian/vicki?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
+[![Apache License 2](https://img.shields.io/badge/license-ASF2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 ![Build Status](https://github.com/eclatian/vicki/workflows/build/badge.svg)
+[![Gitter](https://badges.gitter.im/eclatian/vicki.svg)](https://gitter.im/eclatian/vicki?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
 
 # Vicki
 ## Why?
