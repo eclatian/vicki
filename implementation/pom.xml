@@ -8,4 +8,7 @@
     </parent>
     <artifactId>implementation</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>vicki-biz-impl</module>
+    </modules>
 </project>
