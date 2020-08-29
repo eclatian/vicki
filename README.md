@@ -1,5 +1,5 @@
 [![Gitter](https://badges.gitter.im/eclatian/vicki.svg)](https://gitter.im/eclatian/vicki?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
-![example workflow name](https://github.com/eclatian/vicki/workflows/maven.yml/badge.svg)
+![Build Status](https://github.com/eclatian/vicki/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 # Vicki
 ## Why?
