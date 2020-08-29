@@ -10,6 +10,7 @@
         <module>interfaces</module>
         <module>implementation</module>
         <module>commons</module>
+        <module>docs</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
