@@ -24,7 +24,7 @@ For more information on DFD, please [click here.](https://dfd.how)
 
 ### Help with name and logo
 Please join the [LinkedIn page](https://www.linkedin.com/groups/10543155/). After joining there, you can help with two things:
-1. Help us a name.
+1. Help us a name. - This is sorted. We got the name Vicki.
 2. help us with a nice logo.
 
 ### Contribution in project
