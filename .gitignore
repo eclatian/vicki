@@ -1,0 +1,12 @@
+# Ignore IDE files
+# Intellij Idea
+.idea
+*.iml
+
+# Eclipse
+.settings
+.project
+.classpath
+
+# Output files
+target/
