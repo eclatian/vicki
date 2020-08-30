@@ -1,0 +1,59 @@
+= Vicki Developer Guide
+Vicki <https://github.com/eclatian/vicki>
+:revnumber: {project-version}
+:toc: left
+:toclevels: 3
+:doctype: book
+:sectanchors:
+:sectlinks:
+:sectnums:
+:icons: font
+:icon-set: fa
+:hide-uri-scheme:
+:last-update-label!:
+:tabsize: 2
+:pdf-version: 1.7
+
+[[vicki-developer-guide-about]]
+== About this Document
+
+This is the Vicki Developer guide. This is the ideal place to know about Vicki internal architecture, components and
+production deployment guidelines. If you are a developer wanting to build Vicki from source and contribute, this is
+a great place to start.
+
+[[vicki-what-it-is]]
+== What is Vicki?
+
+Vicki is awesome! We will write more about her soon.
+
+[[vicki-motivation]]
+=== Motivation
+
+Why did we build Vicki? Let's detail it out here.
+
+[[vicki-design-goals]]
+=== Design Goals
+
+TODO
+
+[[vicki-audience]]
+=== Who is it for?
+
+TODO
+
+[[vicki-use-cases]]
+=== What can Vicki do for me?
+
+TODO. Key use cases.
+
+[[vicki-technology]]
+=== Technology
+
+TODO.
+
+include::vicki-getting-started.adoc[]
+include::vicki-architecture.adoc[]
+include::vicki-components.adoc[]
+include::vicki-running-in-production.adoc[]
+include::vicki-monitoring.adoc[]
+include::vicki-stress-testing.adoc[]

@@ -1,0 +1,27 @@
+= Vicki User Manual
+Vicki <https://github.com/eclatian/vicki>
+:revnumber: {project-version}
+:toc: left
+:toclevels: 3
+:doctype: book
+:sectanchors:
+:sectlinks:
+:sectnums:
+:icons: font
+:icon-set: fa
+:hide-uri-scheme:
+:last-update-label!:
+:tabsize: 2
+:pdf-version: 1.7
+
+[[vicki-developer-guide-about]]
+== About this Document
+
+This is the Vicki User Manual. It's a reference for end users to help setup and configure Vicki. Basic troubleshooting
+and FAQs are also available here. This manual captures all that you would need to put Vicki to use successfully.
+
+
+[[vicki-what-it-is]]
+== What is Vicki?
+
+TODO

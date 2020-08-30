@@ -1,0 +1,15 @@
+= Vicki Document Generators
+
+This module produces the Vicki User Manual and Developer Guide.
+
+== Usage
+
+Convert the AsciiDoc to PDF and HTML5 by invoking the `process-resources` goal (configured as the default goal):
+
+ $ mvn clean process-resources
+
+Open the files _target/generated-docs/user-manual.html_ and _target/generated-docs/developer-guide.html_ in
+your browser to see the generated HTML file.
+
+The PDF format documentations would be produced at
+_target/generated-docs/user-manual.pdf_ and _target/generated-docs/developer-guide.pdf_.
