@@ -40,5 +40,5 @@ jobs:
       - name: Upload Docs
         uses: actions/upload-artifact@v1
         with:
-          name: app
+          name: vicki-docs
           path: docs/target/generated-docs/
